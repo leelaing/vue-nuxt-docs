@@ -1,0 +1,9 @@
+{
+  "name": "vue-nuxt-docs",
+  "version": "1.0.0",
+  "description": "Documentation for Vue/Nuxt App Development",
+  "main": "index.js",
+  "repository": "https://github.com/leelaing/vue-nuxt-docs.git",
+  "author": "Lee Laing <big2tiny@gmail.com>",
+  "license": "MIT"
+}
